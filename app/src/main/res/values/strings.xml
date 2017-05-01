@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Conveter</string>
+    <string-array name="sp1">
+        <item>Kilos</item>
+        <item>Meters</item>
+        <item>Celsius</item>
+        <item>Pounds</item>
+        <item>Yards</item>
+        <item>Fatrenheit</item>
+    </string-array>
+    <string-array name="sp2">
+        <item>Pounds</item>
+        <item>Yards</item>
+        <item>Fatrenheit</item>
+        <item>Kilos</item>
+        <item>Meters</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>
